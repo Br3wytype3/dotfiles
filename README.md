@@ -7,7 +7,8 @@ contains:
 - dwm, dmenu and slstatus forks
 - GTK Theme
 
-# dwm Keybinds
+# Keybinds for DWM
+   
 **Mod1** is binded to **Alt**.  
 **Mod1 + T**: Opens Terminal (urxvt)  
 **Mod1 + R**. Opens Dmenu  
