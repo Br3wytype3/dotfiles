@@ -8,7 +8,7 @@ contains:
 - GTK Theme
 
 # dwm Keybinds
-**Mod1** is binded to **Alt**.__
+**Mod1** is binded to **Alt**. <br \>
 **Mod1 + T**: Opens Terminal (urxvt)__
 **Mod1 + R**. Opens Dmenu__
 **Mod1 + E**: Opens browser (Netsurf, in my setup's case)__
